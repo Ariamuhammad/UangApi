@@ -1,27 +1,27 @@
 [
     {
         "nama" : "Dollar",
-        "kurs" : "1 Dolar Amerika Serikat = 14.948,40 Rupiah Indonesia",
+        "kurs" : "1 Dolar Amerika Serikat sama dengan 14.948,40 Rupiah Indonesia",
         "imageId" : "dollar"
     },
     {
         "nama" : "Euro",
-        "kurs" : "1 Euro = 16.159,54 Rupiah Indonesia",
+        "kurs" : "1 Euro sama dengan 16.159,54 Rupiah Indonesia",
         "imageId" : "euro"
     },
     {
         "nama" : "Yen",
-        "kurs" : "1 Yen Jepang = 105,84 Rupiah Indonesia",
+        "kurs" : "1 Yen Jepang sama dengan 105,84 Rupiah Indonesia",
         "imageId" : "yen"
     },
     {
         "nama" : "Poundsterling",
-        "kurs" : "1 Pound Britania = 18.896,66 Rupiah Indonesia",
+        "kurs" : "1 Pound Britania sama dengan 18.896,66 Rupiah Indonesia",
         "imageId" : "pound"
     },
     {
         "nama" : "Won",
-        "kurs" : "1 Won Korea Selatan = 11,67 Rupiah Indonesia",
+        "kurs" : "1 Won Korea Selatan sama dengan 11,67 Rupiah Indonesia",
         "imageId" : "won"
     }
     
